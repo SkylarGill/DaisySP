@@ -1,4 +1,5 @@
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include <stdlib.h>
 #define ROOT2 (1.4142135623730950488)
 

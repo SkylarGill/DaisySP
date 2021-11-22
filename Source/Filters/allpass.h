@@ -5,7 +5,8 @@
 #include <stdint.h>
 #ifdef __cplusplus
 
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 
 /** @file allpass.h */
 

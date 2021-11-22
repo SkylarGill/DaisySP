@@ -1,5 +1,6 @@
 #include <string.h>
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include "nlfilt.h"
 #define OK 0
 #define NOT_OK 1

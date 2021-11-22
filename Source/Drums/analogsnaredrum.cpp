@@ -1,6 +1,7 @@
 #include "dsp.h"
 #include "analogsnaredrum.h"
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include <stdlib.h>
 
 using namespace daisysp;

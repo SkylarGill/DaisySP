@@ -1,5 +1,6 @@
 #include "atone.h"
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include "dsp.h"
 
 using namespace daisysp;

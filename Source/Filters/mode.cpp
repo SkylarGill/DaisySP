@@ -11,7 +11,8 @@
 // Location: Opcodes/biquad.c
 //
 
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include <stdint.h>
 #include <stdlib.h>
 #define ROOT2 (1.4142135623730950488f)

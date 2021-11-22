@@ -1,6 +1,7 @@
 #include "bitcrush.h"
 #include "fold.h"
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 
 using namespace daisysp;
 

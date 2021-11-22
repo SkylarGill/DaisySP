@@ -1,4 +1,5 @@
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include "svf.h"
 #include "dsp.h"
 #define MIN(x, y) (((x) < (y)) ? (x) : (y))

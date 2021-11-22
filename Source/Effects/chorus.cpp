@@ -1,6 +1,7 @@
 #include "dsp.h"
 #include "chorus.h"
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 
 using namespace daisysp;
 

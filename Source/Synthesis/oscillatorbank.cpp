@@ -1,6 +1,7 @@
 #include "dsp.h"
 #include "oscillatorbank.h"
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 
 using namespace daisysp;
 

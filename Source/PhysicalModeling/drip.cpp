@@ -1,5 +1,6 @@
 #include "drip.h"
-#include <math.h>
+#define _USE_MATH_DEFINES
+#include <cmath>
 #include <cstdlib>
 #include "dsp.h"
 
